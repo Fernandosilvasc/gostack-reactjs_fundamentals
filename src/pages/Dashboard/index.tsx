@@ -48,6 +48,7 @@ const Dashboard: React.FC = () => {
         }),
       );
 
+      // eslint-disable-next-line no-shadow
       const { income, outcome, total } = response.data.balance;
 
       const balanceFormatted = {
