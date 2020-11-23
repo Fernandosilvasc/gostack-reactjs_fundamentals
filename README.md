@@ -21,7 +21,7 @@
 
 This challenge is a complement of the last challenge I have done before using NodeJS and TypeScript. The link to access it will be available below.
 
-**[GoStack_challenge-NodeJs Fundamentals](https://github.com/Fernandosilvasc/gostack-nodejs_fundamentals)**
+**[GoStack_challenge-NodeJs Fundamentals](https://github.com/Fernandosilvasc/gostack-nodejs_fundamentals)**<br />
 **[GoStack_challenge-Database and file upload on Node.js](https://github.com/Fernandosilvasc/gostack_challenge-typeorm-concepts)**
 
 In this challenge was necessary create front-end part using ReactJs and Typescript!
